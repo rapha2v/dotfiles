@@ -1,0 +1,7 @@
+[user]
+	email = raphael_porto@outlook.com
+	name = Raphael Porto
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
